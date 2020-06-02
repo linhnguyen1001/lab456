@@ -26,5 +26,6 @@ namespace Lab345.Controllers
 
             return View();
         }
+
     }
 }
